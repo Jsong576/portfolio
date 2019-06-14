@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.fb43af2d.chunk.css",
+    "main.js": "/portfolio/static/js/main.d1e2fbca.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.d1e2fbca.chunk.js.map",
+    "runtime~main.js": "/portfolio/static/js/runtime~main.f308c8e6.js",
+    "runtime~main.js.map": "/portfolio/static/js/runtime~main.f308c8e6.js.map",
+    "static/js/2.0007278a.chunk.js": "/portfolio/static/js/2.0007278a.chunk.js",
+    "static/js/2.0007278a.chunk.js.map": "/portfolio/static/js/2.0007278a.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.f07ff7c27da69cda2a5f0144a6123bab.js": "/portfolio/precache-manifest.f07ff7c27da69cda2a5f0144a6123bab.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.fb43af2d.chunk.css.map": "/portfolio/static/css/main.fb43af2d.chunk.css.map",
+    "static/media/index.css": "/portfolio/static/media/made_evolve_sans_thin_evo_personal_use-webfont.c82d9387.woff2",
+    "static/media/my-subaru.svg": "/portfolio/static/media/my-subaru.99f9316b.svg"
+  }
+}
